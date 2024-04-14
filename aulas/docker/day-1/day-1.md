@@ -63,7 +63,7 @@ docker container stop [CONTAINER ID]
 docker container restart [CONTAINER ID]
 ```
 
-7. Retomando atividade de um container parado:
+7. Retomando atividade de um container pausado:
 
 ```
 docker container unpause [CONTAINER ID]
