@@ -1,4 +1,5 @@
-# Instalando e testando o ambiente com Docker
+# Day-1: Conceitos básicos sobre containers e Docker
+### Instalando e testando o ambiente com Docker
 
 1. Garanta que possui privilégios para usar o comando "sudo"
 

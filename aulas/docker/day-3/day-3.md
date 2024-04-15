@@ -1,0 +1,1 @@
+# Day-3: Trabalhando a melhorias nas imagens Docker, vulnerabilidades e otimizações
