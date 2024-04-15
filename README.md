@@ -16,4 +16,5 @@ Roteiros de estudos e práticas realizadas no PICK 2024.
 # Índice
 
 ## Iniciando no mundo dos containers e do Docker:
-1. [Day-1](https://github.com/mikesmarcos/pick-2024/tree/main/aulas/docker/day-1)
+1. [Day-1: Conceitos básicos sobre containers e Docker](https://github.com/mikesmarcos/pick-2024/tree/main/aulas/docker/day-1)
+2. [Day-2: Trabalhando com imagens e Dockerfile](https://github.com/mikesmarcos/pick-2024/tree/main/aulas/docker/day-2)
